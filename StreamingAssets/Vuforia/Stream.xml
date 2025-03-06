@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="liver" size="2.000000 1.482428" />
+    <ImageTarget name="stomach" size="1.000000 0.727500" />
+    <ImageTarget name="humanexceretorysystem" size="2.000000 2.442379" />
+    <ImageTarget name="howlongareyourintestines_lengthofsmallandlargeintestines" size="1.000000 0.608163" />
+    <ImageTarget name="istockphoto-946884258-612x612" size="1.000000 1.000000" />
+    <ImageTarget name="brain" size="1.000000 0.588645" />
+    <ImageTarget name="draw-a-human-heart-step-5-version-2" size="2.000000 1.125000" />
+  </Tracking>
+</QCARConfig>
